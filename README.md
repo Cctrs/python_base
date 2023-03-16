@@ -1,1 +1,1 @@
-# python_base
+# базовое понимание Python
